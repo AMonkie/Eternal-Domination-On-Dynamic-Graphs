@@ -1,6 +1,6 @@
-site_name: IFT3150 - Template
-site_description: Template de site web pour le cours IFT3150
-site_author: Louis-Edouard Lafontant
+site_name: IFT3150 - Eternal domination on dynamic graphs 
+site_description: 
+site_author: Antony Leclerc
 site_url: https://ift3150-template.github.io
 
 theme:
@@ -74,7 +74,7 @@ extra_css:
   - css/no-sidebar.css
 
 nav:
-  - Vue d'ensemble: index.md
+  - Vue d'ensemble: analysis.md
   - Suivi: suivi.md
   - Études préliminaires: analysis.md
   - Conception: conception.md

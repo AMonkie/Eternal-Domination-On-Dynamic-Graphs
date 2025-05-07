@@ -6,7 +6,8 @@ Mettre en place le site web. Relire la théorie concernant le problème et une a
 Les [ problèmes de gardes ](https://www.researchgate.net/publication/264123208_Protecting_a_Graph_with_Mobile_Guards){:download}
 sans la composante dynamique
 
-Le [document](/home/antony/Documents/GitHub/Eternal-Domination-On-Dynamic-Graphs/UTF-8Eternal_domination_in_dynamic_graphs-2.pdf){:download} avec le probleme initiale
+Le document initiale sur la [ domination éternelle sur les graphes dynamique](UTF-8Eternal_domination_in_dynamic_graphs-2.pdf)
+
 ## Semaine 2
 
 ## Semaine 3

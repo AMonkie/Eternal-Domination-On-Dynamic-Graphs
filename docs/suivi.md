@@ -1,28 +1,12 @@
 # Suivi de projet
 
 ## Semaine 1
+Mettre en place le site web. Relire la théorie concernant le problème et une autre ressource connexe qui pourrait m'aider.
 
-??? note "Mettre en place l'environnement"
-    - [x] Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - [ ] Vestibulum convallis sit amet nisi a tincidunt
-        * [x] In hac habitasse platea dictumst
-        * [x] In scelerisque nibh non dolor mollis congue sed et metus
-        * [ ] Praesent sed risus massa
-    - [ ] Aenean pretium efficitur erat, donec pharetra, ligula non scelerisque
+Les [ problèmes de gardes ](https://www.researchgate.net/publication/264123208_Protecting_a_Graph_with_Mobile_Guards){:download}
+sans la composante dynamique
 
-!!! info "Notes"
-    - Il est possible que nous révisions les exigences après le prototypage
-
-!!! warning "Difficultés rencontrées"
-    - Le plugin Mermaid n'était pas reconnu : confusion entre `mkdocs-mermaid2-plugin` (pip) et `mermaid2` (plugin name)
-        - Résolu après nettoyage et configuration correcte dans `mkdocs.yml`
-
-!!! abstract "Prochaines étapes"
-    - Démarrer l’analyse du problème
-    - Créer la structure de `etudes_preliminaires.md`
-
----
-
+Le [document](/home/antony/Documents/GitHub/Eternal-Domination-On-Dynamic-Graphs/UTF-8Eternal_domination_in_dynamic_graphs-2.pdf){:download} avec le probleme initiale
 ## Semaine 2
 
 ## Semaine 3

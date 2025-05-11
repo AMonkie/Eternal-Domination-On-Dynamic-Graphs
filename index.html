@@ -14,6 +14,8 @@
       
       
       
+        <link rel="next" href="suivi/">
+      
       
       <link rel="icon" href="assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.12">
@@ -108,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Projet IFT3150: Domination éternelle sur les graphes dynamiques
+              Vue d'ensemble
             
           </span>
         </div>
@@ -224,9 +226,11 @@
   
   
   
+    
   
-    <li class="md-tabs__item">
-      <a href="analysis/" class="md-tabs__link">
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="." class="md-tabs__link">
         
   
   
@@ -270,45 +274,7 @@
   
     
   
-  Vue d'ensemble
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="conception/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Conception
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="evaluation/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Tests & Évaluation
+  Études préliminaires
 
       </a>
     </li>
@@ -402,10 +368,32 @@
       
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="analysis/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Vue d'ensemble
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
         
   
   
@@ -416,6 +404,68 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#informations-importantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Informations importantes
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#eleve" class="md-nav__link">
+    <span class="md-ellipsis">
+      Élève
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description-du-projet-et-contexte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Description du projet et contexte
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Description du projet et contexte">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#problematique-et-objectifs" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problématique et objectifs
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -454,51 +504,7 @@
   
   
   <span class="md-ellipsis">
-    Vue d'ensemble
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="conception/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Conception
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="evaluation/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Tests & Évaluation
+    Études préliminaires
     
   </span>
   
@@ -662,11 +668,11 @@
 </ul>
 <h2 id="description-du-projet-et-contexte">Description du projet et contexte<a class="headerlink" href="#description-du-projet-et-contexte" title="Permanent link">&para;</a></h2>
 <p>Les graphes dynamiques sont définis dans le contexte de la domination éternelle. Certaines bornes sur le nombre de gardes requis pour avoir des solutions de domination ont été établies. 
-Il y a une version en ligne du problème et une version hors ligne où chaque étape de l'attaquant est connue d'avance. Si le temps le permet, il serait possible d'ajouter à cette partie.</p>
+Il y a une version en ligne du problème et une version hors ligne où chaque étape de l'attaquant est connue d'avance. Si le temps le permet, il serait intéressant d'ajouter à la partie hors ligne.</p>
 <p>J'aimerais premièrement tenter de résoudre certains problèmes ouverts dans le contexte de domination éternelle dans les graphes dynamiques.</p>
 <h3 id="problematique-et-objectifs">Problématique et objectifs<a class="headerlink" href="#problematique-et-objectifs" title="Permanent link">&para;</a></h3>
 <p>Un des premiers problèmes qu'on aimerait résoudre serait que pour une solution de k gardes qui domine éternellement un graphe dynamique et où chaque garde peut bouger une fois par tour. Si on ajoute un sommet universel sur cette solution, préservons-nous une solution de k gardes ?</p>
-<p>J'ajouterais aussi un document latex  pour poser d'autres propositions sur des classes de graphes qu'on aimerait montrer et les problèmes possibles sur les graphes hors ligne</p>
+<p>J'ajouterais aussi un document latex  pour tenter de resoudre d'autres propositions.</p>
 
 
 

@@ -17,12 +17,12 @@
 
 ## Description du projet et contexte
 Les graphes dynamiques sont définis dans le contexte de la domination éternelle. Certaines bornes sur le nombre de gardes requis pour avoir des solutions de domination ont été établies. 
-Il y a une version en ligne du problème et une version hors ligne où chaque étape de l'attaquant est connue d'avance. Si le temps le permet, il serait possible d'ajouter à cette partie.
+Il y a une version en ligne du problème et une version hors ligne où chaque étape de l'attaquant est connue d'avance. Si le temps le permet, il serait intéressant d'ajouter à la partie hors ligne.
 
 J'aimerais premièrement tenter de résoudre certains problèmes ouverts dans le contexte de domination éternelle dans les graphes dynamiques.
 ### Problématique et objectifs
 Un des premiers problèmes qu'on aimerait résoudre serait que pour une solution de k gardes qui domine éternellement un graphe dynamique et où chaque garde peut bouger une fois par tour. Si on ajoute un sommet universel sur cette solution, préservons-nous une solution de k gardes ?
 
-J'ajouterais aussi un document latex  pour poser d'autres propositions sur des classes de graphes qu'on aimerait montrer et les problèmes possibles sur les graphes hors ligne
+J'ajouterais aussi un document latex  pour tenter de resoudre d'autres propositions.
 
 

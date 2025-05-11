@@ -76,5 +76,7 @@ nav:
   - Vue d'ensemble: index.md
   - Suivi: suivi.md
   - Études préliminaires: analysis.md
+  - Conception: conception.md
+  - Tests & Évaluation: evaluation.md
   - Résultats: results.md
   - References: references.md

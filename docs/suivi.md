@@ -9,7 +9,8 @@ sans la composante dynamique
 Le document initiale sur la [ domination éternelle sur les graphes dynamique](UTF-8Eternal_domination_in_dynamic_graphs-2.pdf)
 
 ## Semaine 2
-
+Je travaille cette semaine sur proposition 8 et 9 
+Je dois toujours finir de lire le document sur les problèmes de gardes sans la composante dynamique.
 ## Semaine 3
 
 ## Semaine 4

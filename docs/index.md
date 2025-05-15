@@ -18,7 +18,7 @@
 ## Description du projet et contexte
 Mon sujet porte sur la domination éternelle sur les graphes dynamiques.
 
-Un graphe se définit par (G = (V, E)) un ensemble de sommets avec leurs relations des arêtes. Un graphe dynamique est une séquence discrète infinie de graphes où k arêtes sont retirés dans chaque graphe de façon indépendante
+Un graphe se définit par (G = (V, E)) un ensemble de sommets avec leurs relations (les arêtes). Un graphe dynamique est une séquence discrète infinie de graphes où k arêtes sont retirés dans chaque graphe de façon indépendante
 
 La domination éternelle, c'est un graphe qui possède des gardes sur des sommets qui peuvent protéger n'importe quelle attaque en se plaçant sur ces noeuds.
 

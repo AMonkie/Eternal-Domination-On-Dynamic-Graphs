@@ -11,8 +11,10 @@ Le document initiale sur la [ domination éternelle sur les graphes dynamique](U
 ## Semaine 2
 Je travaille cette semaine sur proposition 8 et 9 
 Je dois toujours finir de lire le document sur les problèmes de gardes sans la composante dynamique.
-## Semaine 3
 
+Au final j'ai plus travaillé sur essayer de comprendre la question 1 et j'ai une intuition sur le comportement des graphes et des solutions possibles. (je vais mettre un PDF là-dessus) J'ai aussi une idée pour rédiger prop 8 et 9 mais ce n'est pas rédigé.
+## Semaine 3
+Principalement, Canadam va prendre la plupart de mon temps. Je vais voir à la fin de la semaine si je peux travailler sur le projet.
 ## Semaine 4
 
 ## Semaine 5

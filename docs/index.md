@@ -6,7 +6,7 @@
 ## Informations importantes
 
 !!! info "Dates importantes"
-    - **Description du projet** : 16 mai 2025
+    - **Description du projet** : 25 mai 2025
 
     - **Présentation et rapport** : 11-15 août 2025
 
@@ -20,7 +20,7 @@ Mon sujet porte sur la domination éternelle sur les graphes dynamiques.
 
 Un graphe se définit par (G = (V, E)) un ensemble de sommets avec leurs relations (les arêtes). Un graphe dynamique est une séquence discrète infinie de graphes où k arêtes sont retirés dans chaque graphe de façon indépendante
 
-La domination éternelle, c'est un graphe qui possède des gardes sur des sommets qui peuvent protéger n'importe quelle attaque en se plaçant sur ces noeuds.
+La domination éternelle, c'est un graphe qui possède des gardes sur des sommets qui peuvent protéger n'importe qu'elle attaque en se plaçant sur ces noeuds.
 
 On veut donc établir des solutions de domination éternelles sur des graphes dynamiques
 

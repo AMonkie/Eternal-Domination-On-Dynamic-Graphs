@@ -1,8 +1,6 @@
 # Études préliminaires
 Les [ problèmes de gardes ](https://www.researchgate.net/publication/264123208_Protecting_a_Graph_with_Mobile_Guards){:download}
 sans la composante dynamique
-
-Le document initiale sur la [ domination éternelle sur les graphes dynamique](UTF-8Eternal_domination_in_dynamic_graphs-2.pdf)
 ## Analyse du problème
 J'aimerais premièrement tenter de résoudre certains problèmes ouverts dans le contexte de domination éternelle dans les graphes dynamiques.
 

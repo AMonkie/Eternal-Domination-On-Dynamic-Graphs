@@ -30,11 +30,14 @@ Nous avons rédigé plusieurs propositions que j'avais amenées sur la question 
 
 
 ## Semaine 6
+Nous avons montré plusieurs résultats dans le contexte du papier et j'ai fini la rédaction de la proposition 8. J'ai quelques idées pour la proposition 9 et même plus, mais la rédaction ne sera pas facile. On attend toujours de travailler sur la partie hors ligne.
+
 
 ## Semaine 7
+J'ai rédigé ma preuve pour la proposition 9 et j'ai fait une remarque détaillée pour généraliser à n'importe quelle structure de ce type. Nous avons aussi rédigé un théorème et son lemme. Je vais à une conférence la semaine prochaine et je vais sûrement m'introduire à la théorie de la computation nécessaire pour le projet, puisque après la semaine 8 nous allons sûrement travailler là-dessus. Alors je vais devoir étudier un peu plus. Cette semaine j'avais un examen + projet de 2035 alors je n'avais pas une tonne de temps pour travailler sur le projet mais je suis satisfait du progrès sur le papier.
 
 ## Semaine 8
-
+Conference CUMSC a toronto 
 ## Semaine 9
 
 ## Semaine 10

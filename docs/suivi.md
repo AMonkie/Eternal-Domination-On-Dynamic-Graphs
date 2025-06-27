@@ -37,7 +37,7 @@ Nous avons montré plusieurs résultats dans le contexte du papier et j'ai fini 
 J'ai rédigé ma preuve pour la proposition 9 et j'ai fait une remarque détaillée pour généraliser à n'importe quelle structure de ce type. Nous avons aussi rédigé un théorème et son lemme. Je vais à une conférence la semaine prochaine et je vais sûrement m'introduire à la théorie de la computation nécessaire pour le projet, puisque après la semaine 8 nous allons sûrement travailler là-dessus. Alors je vais devoir étudier un peu plus. Cette semaine j'avais un examen + projet de 2035 alors je n'avais pas une tonne de temps pour travailler sur le projet mais je suis satisfait du progrès sur le papier.
 
 ## Semaine 8
-Conference CUMSC a toronto 
+Conference CUMSC à Waterloo. J'ai travaillé sur quelques problèmes mais je n'ai pas pu écrire rien sur papier. J'ai aussi révisé les concepts de classe de complexité des problèmes.
 ## Semaine 9
 
 ## Semaine 10
